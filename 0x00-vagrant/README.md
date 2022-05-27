@@ -1,0 +1,1 @@
+Print of uname in the ssh ubuntu
