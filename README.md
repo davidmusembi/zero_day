@@ -1,0 +1,1 @@
+This is Git and github setup in vagrant
